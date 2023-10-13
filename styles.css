@@ -1,0 +1,29 @@
+book {
+    font-size: 16px;
+    background-color: #f0f0f0;
+    color: #333;
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #007acc;
+}
+
+category {
+    font-size: 14px;
+    color: #333;
+}
+
+price {
+    font-size: 14px;
+    color: #1a1a1a;
+}
+
+quantity {
+    font-size: 14px;
+    color: #1a1a1a;
+}
